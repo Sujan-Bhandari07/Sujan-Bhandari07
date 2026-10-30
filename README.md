@@ -17,6 +17,9 @@ I'm a passionate developer from Nepal who enjoys building meaningful digital exp
 ### 🤝 Connect with Me
 
 <p align="left">
+  <a href="https://your-portfolio-url.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://github.com/Sujan-Bhandari07">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -27,6 +30,7 @@ I'm a passionate developer from Nepal who enjoys building meaningful digital exp
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
 ---
 
 ### 🛠️ Languages, Frameworks & Tools
