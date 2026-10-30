@@ -7,7 +7,7 @@ I'm a passionate developer from Nepal who enjoys building meaningful digital exp
 - 🔭 **Currently working on:** [AI-Powered LMS Platform](https://github.com/Sujan-Bhandari07/lms.git)
 - 🌱 **Currently learning:** NestJS, Next.js, PostgreSQL, and AI/LLM integration
 - 💡 **Interested in:** Full-stack development, microservices, AI-powered applications, and creative web experiences
-- 👨‍💻 **My projects:** [Explore my GitHub repositories](https://github.com/Sujan-Bhandari07)
+- 👨‍💻 **My projects:** [Explore my GitHub repositories](https://github.com/Sujan-Bhandari07?tab=repositories)
 - 💬 **Ask me about:** React, Next.js, Node.js, Express.js, NestJS, TypeScript, Tailwind CSS, GSAP, React Three Fiber, MongoDB, Redis, RabbitMQ, Docker, Nx, REST APIs, Microservices, and LLM integration
 - 📫 **Reach me at:** [sujanbhandari474@gmail.com](mailto:sujanbhandari474@gmail.com)
 - ⚡ **Fun fact:** I love turning ideas into code and exploring how AI can shape the future!
