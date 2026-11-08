@@ -4,7 +4,7 @@
 
 I'm a passionate developer from Nepal who enjoys building meaningful digital experiences, solving problems, and turning ideas into reality. I'm continuously learning, experimenting with new technologies, and building projects to improve my skills.
 
-- 🔭 **Currently working on:** [AI-Powered LMS Platform](https://github.com/Sujan-Bhandari07/lms.git)
+- 🔭 **Currently working on:** [Sutra — AI-powered workflow automation through intelligent agents.](https://github.com/Sujan-Bhandari07/sutra.git)
 - 🌱 **Currently learning:** NestJS, Next.js, PostgreSQL, and AI/LLM integration
 - 💡 **Interested in:** Full-stack development, microservices, AI-powered applications, and creative web experiences
 - 👨‍💻 **My projects:** [Explore my GitHub repositories](https://github.com/Sujan-Bhandari07?tab=repositories)
