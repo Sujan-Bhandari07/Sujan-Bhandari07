@@ -4,7 +4,7 @@
 
 I'm a passionate developer from Nepal who enjoys building meaningful digital experiences, solving problems, and turning ideas into reality. I'm continuously learning, experimenting with new technologies, and building projects to improve my skills.
 
-- 🔭 **Currently working on:** [Sutra — AI-powered workflow automation through intelligent agents.](https://github.com/Sujan-Bhandari07/sutra.git)
+- 🔭 **Currently working on:** [Sutra — AI-powered workflow automation through intelligent agents.](https://github.com/Sujan-Bhandari07/sutra)
 - 🌱 **Currently learning:** System Design, Scalable Backend Architecture, Distributed Systems, and Advanced AI Agent Development
 - 📈 **Currently improving:** Microservices Architecture, Database Design & Optimization, and AI/LLM Integration
 - 💡 **Interested in:** Full-stack development, microservices, AI-powered applications, and creative web experiences
