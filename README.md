@@ -3,8 +3,7 @@
 ### 💻 Aspiring Full Stack Developer | BCA Student | AI Enthusiast
 
 I'm a passionate developer from Nepal who enjoys building meaningful digital experiences, solving problems, and turning ideas into reality. I'm continuously learning, experimenting with new technologies, and building projects to improve my skills.
-
--🔭 **Currently working on:** [Nexus — A Team Operating System for modern organizations.](https://github.com/Sujan-Bhandari07/nexus)
+- 🔭 **Currently working on:** [Nexus — A Team Operating System for modern organizations.](https://github.com/Sujan-Bhandari07/nexus)
 - 🌱 **Currently learning:** System Design, Scalable Backend Architecture, Distributed Systems, and Advanced AI Agent Development
 - 📈 **Currently improving:** Microservices Architecture, Database Design & Optimization, and AI/LLM Integration
 - 💡 **Interested in:** Full-stack development, microservices, AI-powered applications, and creative web experiences
@@ -12,7 +11,6 @@ I'm a passionate developer from Nepal who enjoys building meaningful digital exp
 - 💬 **Ask me about:** React, Next.js, Node.js, Express.js, NestJS, TypeScript, Tailwind CSS, GSAP, React Three Fiber, PostgreSQL, Prisma, MongoDB, Redis, RabbitMQ, GraphQL, Docker, Nx, REST APIs, Microservices, and LLM integration
 - 📫 **Reach me at:** [sujanbhandari474@gmail.com](mailto:sujanbhandari474@gmail.com)
 - ⚡ **Fun fact:** I love turning ideas into code and exploring how AI can shape the future!
-
 ---
 
 ### 🤝 Connect with Me
